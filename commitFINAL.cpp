@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-Actor actores[20];
+    Actor actores[20];
     Funcion funciones[20];
     Pelicula peliculas [20];
     

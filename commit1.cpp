@@ -116,5 +116,8 @@ int main()
         }
         //cout<<p1.getListaActores(0).getId()<<endl;
         cout<<p1.getCantActores()<<endl;
+    
+    return 0;
+}
         
 //=======================================================================
